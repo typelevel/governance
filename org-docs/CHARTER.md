@@ -1,6 +1,6 @@
-# Charter for the [FIXME] Organization
+# Typelevel Charter
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
+This is the organizational charter for Typelevel (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
 
 ## 1. Mission
 
