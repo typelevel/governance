@@ -1,4 +1,8 @@
-# Minimum Viable Governance
+# Typelevel Governance
+
+## Status
+
+This is a working copy of a reimagined Typelevel governance.  Nothing in this repository is presently in effect.
 
 ## What is Minimum Viable Governance?
 
