@@ -4,7 +4,7 @@ This is the organizational charter for the [FIXME] Organization (the "Organizati
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 
 ## 2. Steering Committee
 
