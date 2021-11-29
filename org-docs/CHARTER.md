@@ -44,15 +44,37 @@ Information disclosed in connection with any of the Organization's activities, i
 
 In order to be eligible to be a Organization project, a project must:
 
-* Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
+* Agree to be hosted by the Organization.
 * Use only the following outbound licenses or agreements unless otherwise approved:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](http://www.openwebfoundation.org/legal) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 * Include and adhere to the Organization's policies, including the trademark policy, the antitrust-policy, and the code of conduct.
 
-## 9. Amendments
+**8.1 Admission.** Projects may apply for admission with written notice to the Steering Committee on behalf of a consensus of the project's stakeholders.  The application is approved with at least a 3/4 affirmative vote of the Steering Committee.
+
+**8.2 Removal.** An Organization project may be removed from the Organization with at least a 3/4 affirmative vote of the Steering Committee.  Removed Organizatoin projects may be archived or transferred to another organization or individual.  Removed Organization projects may remain affiliated by decision of the Steering Committee.
+
+**8.3 Initial projects.** Projects already hosted under the Typelevel GitHub organization when this charter is ratified are considered Organization projects unless they are later removed.
+
+## 9. Affiliate projects
+
+In order to be eligible to be an Affiliate project, a project must:
+
+* Use only the following outbound licenses or agreements unless otherwise approved:
+  - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
+  - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
+  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](http://www.openwebfoundation.org/legal) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
+* Adhere to the Organization's policies, including the trademark policy, the antitrust-policy, and the code of conduct.
+
+**9.1 Affiliation.** Projects may apply for affiliation with written notice to the Steering Committee on behalf of a consensus of the project's stakeholders.  The application is approved with a decision of the Steering Committee.
+
+**9.2 Disaffiliation.** A project may be removed from the Organization with a decision of the Steering Committee.
+
+**9.3 Initial affiliates.** Projects that have previously been approved for Typelevel membership as "full members" or "incubator" but are not hosted under the Typelevel GitHub organization are considered Affiliate projects unless they later become disaffiliated.
+
+## 10. Amendments
 
 Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
