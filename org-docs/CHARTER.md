@@ -54,7 +54,7 @@ In order to be eligible to be a Organization project, a project must:
 
 **8.1 Admission.** Projects may apply for admission with written notice to the Steering Committee on behalf of a consensus of the project's stakeholders.  The application is approved with at least a 3/4 affirmative vote of the Steering Committee.
 
-**8.2 Removal.** An Organization project may be removed from the Organization with at least a 3/4 affirmative vote of the Steering Committee.  Removed Organizatoin projects may be archived or transferred to another organization or individual.  Removed Organization projects may remain affiliated by decision of the Steering Committee.
+**8.2 Removal.** An Organization project may be removed from the Organization with at least a 3/4 affirmative vote of the Steering Committee.  Removed Organization projects may be archived or transferred to another organization or individual.  Removed Organization projects may remain affiliated by decision of the Steering Committee.
 
 **8.3 Initial projects.** Projects already hosted under the Typelevel GitHub organization when this charter is ratified are considered Organization projects unless they are later removed.
 
