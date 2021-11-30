@@ -54,7 +54,7 @@ In order to be eligible to be a Organization project, a project must:
 
 ## 9. Amendments
 
-Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 2/3 affirmative vote of the Steering Committee.
 
 ---
 Part of MVG-0.1-beta.
