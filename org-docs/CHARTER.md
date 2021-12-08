@@ -72,7 +72,7 @@ In order to be eligible to be an Affiliate project, a project must:
 
 **9.2 Disaffiliation.** A project may be removed from the Organization with a decision of the Steering Committee.
 
-**9.3 Initial affiliates.** Projects that have previously been approved for Typelevel membership as "full members" or "incubator" but are not hosted under the Typelevel GitHub organization are considered Affiliate projects unless they later become disaffiliated.
+**9.3 Initial affiliates.** Projects that have previously been approved for Typelevel membership as "full members" or "incubator" but are not hosted under the Typelevel GitHub organization are considered Affiliate projects unless they later become unaffiliated.
 
 ## 10. Amendments
 
