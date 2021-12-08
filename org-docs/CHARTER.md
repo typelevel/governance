@@ -4,7 +4,7 @@ This is the organizational charter for Typelevel (the "Organization"). By adding
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+Typelevel is an association of projects and individuals united to foster an inclusive, welcoming, and safe environment around functional programming in Scala.
 
 ## 2. Steering Committee
 
@@ -20,9 +20,11 @@ The Steering Committee will appoint a Chair responsible for organizing Steering 
 
 **3.2. Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. 
 
-**3.2.1 Majority** Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority (greater than one-half) vote of all voting members. Abstentions and absences are excluded from the calculation, provided the quorum is reached.
+**3.2.1 Quorum**. A quorum is a simple majority (greater than one-half) of the entire membership of the Steering Committee.
 
-**3.2.2 Supermajority** References to "no less than X/Y affirmative vote" or "at least X/Y affirmative vote" require a supermajority greater than or equal to X/Y of all voting members. Abstentions and absences are excluded from the calculation, provided the quorum is reached.
+**3.2.1 Majority**. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority (greater than one-half) vote of all voting members. Abstentions and absences are excluded from the calculation, provided the quorum is reached.
+
+**3.2.2 Supermajority**. References to "no less than X/Y affirmative vote" or "at least X/Y affirmative vote" require a supermajority greater than or equal to X/Y of all voting members. Abstentions and absences are excluded from the calculation, provided the quorum is reached.
 
 ## 4. Termination of Membership
 
@@ -80,7 +82,7 @@ In order to be eligible to be an Affiliate project, a project must:
 
 ## 10. Amendments
 
-Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 2/3 affirmative vote of the Steering Committee.
 
 ---
 Part of MVG-0.1-beta.
