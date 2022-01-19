@@ -6,7 +6,7 @@ This repository houses the documents and discussions that govern Typelevel.
 
 * The [Typelevel Charter](CHARTER.md) establishes our mission and procedures
 * The [Typelevel Antitrust Policy](ANTITRUST.md)
-* The [Typelevel Trademark Policy](TRADEMARK.md)
+* The [Typelevel Trademark Policy](TRADEMARKS.md)
 * The present [Typelevel Steering Committee](STEERING-COMMITTEE.md)
 
 ## Contributing
