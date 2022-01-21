@@ -3,7 +3,7 @@
 This document lists the Organization's advisors, who may be asked to lend guidance and assist in decision-making. Advisors do not vote and are not Steering Committee members.
 
 
-| **Name**           | **GutHub**                                 |
+| **Name**           | **GitHub**                                 |
 |--------------------|--------------------------------------------|
 | Raúl Raja Martínez | [@raulraja](https://github.com/raulraja)   |
 | Seth Tisue         | [@sethtisue](https://github.com/sethtisue) |
