@@ -12,7 +12,10 @@ Typelevel is an association of projects and individuals united to foster an incl
 
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
-The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+
+**2.2.1 Chair**. The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+
+**2.2.2 Treasurer**. The Steering Committee will appoint a Treasurer responsible for tracking the Organization's assets, income, and expenditures, and administer the processes and workflows for approving expenses and disbursing funds held by the Organization.
 
 **2.3 Advisors**. The Steering Committee may appoint advisors to lend guidance and assist in decision-making. Advisors do not vote and are not Steering Committee members.
 
