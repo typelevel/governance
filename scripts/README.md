@@ -3,6 +3,7 @@
 Calculator for vote thresholds for Steering Committee.
 
 ```console
+$ scala-cli run /tmp/quorum.scala -- 9
 Quorum is 5 of 9 members
 
 Majority:
