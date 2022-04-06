@@ -8,7 +8,6 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Oscar Boykin          | [@johnynek](https://github.com/johnynek)                         |
 | Christopher Davenport | [@ChristopherDavenport](https://github.com/ChristopherDavenport) | Treasurer  |
 | Luka Jacobowitz       | [@LukaJCB](https://github.com/LukaJCB)                           |
-| Alexandru Nedelcu     | [@alexandru](https://github.com/alexandru)                       |
 | Rob Norris            | [@tpolecat](https://github.com/tpolecat)                         |
 | Michael Pilquist      | [@mpilquist](https://github.com/mpilquist)                       |
 | Daniel Spiewak        | [@djspiewak](https://github.com/djspiewak)                       |
