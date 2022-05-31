@@ -14,7 +14,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Daniel Spiewak        | [@djspiewak](https://github.com/djspiewak)                       |
 | Andrew Valencik       | [@valencik](https://github.com/valencik)                         |
 | Vasil Vasilev         | [@vasilmkd](https://github.com/vasilmkd)                         |
-| Mark Waks (aka Justin du Couer) | [@jducouer](https://github.com/jducouer)               |
+| Mark Waks (aka Justin du Coeur) | [@jducoeur](https://github.com/jducoeur)               |
 | Kailuo Wang           | [@kailuowang](https://github.com/kailuowang)                     |
 
 ---
