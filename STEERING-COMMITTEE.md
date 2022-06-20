@@ -11,6 +11,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Zach McCoy            | [@zmccoy](https://github.com/zmccoy)                             |
 | Rob Norris            | [@tpolecat](https://github.com/tpolecat)                         |
 | Michael Pilquist      | [@mpilquist](https://github.com/mpilquist)                       |
+| Sam Pillsworth        | [@mpilquist](https://github.com/samspills)                       |
 | Daniel Spiewak        | [@djspiewak](https://github.com/djspiewak)                       |
 | Andrew Valencik       | [@valencik](https://github.com/valencik)                         |
 | Vasil Vasilev         | [@vasilmkd](https://github.com/vasilmkd)                         |
