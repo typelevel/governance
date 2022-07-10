@@ -12,6 +12,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Rob Norris                      | [@tpolecat](https://github.com/tpolecat)                         |            |
 | Michael Pilquist                | [@mpilquist](https://github.com/mpilquist)                       |            |
 | Sam Pillsworth                  | [@samspills](https://github.com/samspills)                       |            |
+| Jasna Rodulfa-Blemberg          | [@JasnaMRB](https://github.com/JasnaMRB)                         |            |
 | Daniel Spiewak                  | [@djspiewak](https://github.com/djspiewak)                       |            |
 | Andrew Valencik                 | [@valencik](https://github.com/valencik)                         |            |
 | Vasil Vasilev                   | [@vasilmkd](https://github.com/vasilmkd)                         |            |
