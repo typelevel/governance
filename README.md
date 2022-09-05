@@ -9,6 +9,11 @@ This repository houses the documents and discussions that govern Typelevel.
 * The [Typelevel Trademark Policy](TRADEMARKS.md)
 * The present [Typelevel Steering Committee](STEERING-COMMITTEE.md)
 
+## Other Resources
+
+* We are pleased to offer Typelevel contributors access to a license for [Tuple, pair programming software](https://tuple.app/). 
+Please read [our guide for how to set it up](/resources/tuple.md).
+
 ## Contributing
 
 Typelevel is a collaborative organization of volunteers.  We welcome
