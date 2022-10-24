@@ -9,7 +9,6 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Christopher Davenport           | [@ChristopherDavenport](https://github.com/ChristopherDavenport) | Treasurer  |
 | Luka Jacobowitz                 | [@LukaJCB](https://github.com/LukaJCB)                           |            |
 | Zach McCoy                      | [@zmccoy](https://github.com/zmccoy)                             |            |
-| Rob Norris                      | [@tpolecat](https://github.com/tpolecat)                         |            |
 | Michael Pilquist                | [@mpilquist](https://github.com/mpilquist)                       |            |
 | Sam Pillsworth                  | [@samspills](https://github.com/samspills)                       |            |
 | Jasna Rodulfa-Blemberg          | [@JasnaMRB](https://github.com/JasnaMRB)                         |            |
