@@ -21,4 +21,3 @@ In accordance with the [Typelevel Charter](https://github.com/typelevel/governan
 
 ### Additional Notes
 <!-- Please provide some additional context about this project. -->
-
