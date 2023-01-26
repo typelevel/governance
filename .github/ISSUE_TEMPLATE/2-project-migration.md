@@ -19,7 +19,7 @@ Project Submission Issue: [LINK ISSUE HERE]
 
 ### For All Projects:
 
-- [ ] Add project to the site by [adding a file here](https://github.com/typelevel/typelevel.github.com/tree/development/collections/_projects)
+- [ ] Add project to the site by [adding an entry to the projects.yml file](https://github.com/typelevel/typelevel.github.com/blob/development/_data/projects.yml)
 
 
 ### Announcements
