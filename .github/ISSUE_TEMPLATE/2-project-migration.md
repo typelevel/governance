@@ -27,4 +27,4 @@ Project Submission Issue: [LINK ISSUE HERE]
 These steps are optional but encouraged.
 
 - [ ] Write a blog post announcing the change
-- [ ] Post to our social channels (Twitter, Mastodon)
+- [ ] Post to our social channels (Mastodon)
