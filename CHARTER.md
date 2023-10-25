@@ -13,7 +13,7 @@ Typelevel is an association of projects and individuals united to foster an incl
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 
-**2.2.1 Secretary**. The Steering Committee will appoint a Secretary responsible for calling votes, organizing meetings, and facilitating progress on Steering Committee projects. The Secretary's term will be 12 months long, after which the Steering Committee will appoint a new Secretary. If the Secretary must resign before their 12-month term finishes, a month's notice is requested, if possible, to allow a smooth transition to a new Secretary.
+**2.2.1 Secretary**. The Steering Committee will appoint a Secretary responsible for calling votes, organizing meetings, and facilitating progress on Steering Committee projects. The Secretary's term will be 12 months long. At the end of the term the Steering Committee will vote to appoint a new Secretary or extend the current term. If the Secretary must resign before their 12-month term finishes, a month's notice is requested, if possible, to allow a smooth transition to a new Secretary.
 
 **2.2.2 Treasurer**. The Steering Committee will appoint a Treasurer responsible for tracking the Organization's assets, income, and expenditures, and administer the processes and workflows for approving expenses and disbursing funds held by the Organization.
 
