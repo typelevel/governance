@@ -4,7 +4,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME**                        | **GitHub**                                                       | **Office** |
 |---------------------------------|------------------------------------------------------------------|------------|
-| Ross A. Baker                   | [@rossabaker](https://github.com/rossabaker)                     | Chair      |
+| Ross A. Baker                   | [@rossabaker](https://github.com/rossabaker)                     |            |
 | Oscar Boykin                    | [@johnynek](https://github.com/johnynek)                         |            |
 | Christopher Davenport           | [@ChristopherDavenport](https://github.com/ChristopherDavenport) | Treasurer  |
 | Luka Jacobowitz                 | [@LukaJCB](https://github.com/LukaJCB)                           |            |
@@ -13,7 +13,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Sam Pillsworth                  | [@samspills](https://github.com/samspills)                       |            |
 | Jasna Rodulfa-Blemberg          | [@JasnaMRB](https://github.com/JasnaMRB)                         |            |
 | Daniel Spiewak                  | [@djspiewak](https://github.com/djspiewak)                       |            |
-| Andrew Valencik                 | [@valencik](https://github.com/valencik)                         |            |
+| Andrew Valencik                 | [@valencik](https://github.com/valencik)                         | Secretary  |
 | Vasil Vasilev                   | [@vasilmkd](https://github.com/vasilmkd)                         |            |
 | Mark Waks (aka Justin du Coeur) | [@jducoeur](https://github.com/jducoeur)                         |            |
 
