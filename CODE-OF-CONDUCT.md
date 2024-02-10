@@ -57,8 +57,7 @@ Community members asked to stop any inappropriate behavior are expected to compl
 
 If a participant engages in behavior that violates our standards, the Typelevel Code of Conduct Committee will take any action they deem appropriate, including but not limited to: warning the offender, or expelling them from the community or current community events with no refund of event tickets.
 
-<!-- TODO link enforcement procedures -->
-The full list of consequences for inappropriate behavior is listed in the Enforcement Procedures.
+The full list of consequences for inappropriate behavior is listed in the [Enforcement Procedures](ENFORCEMENT-POLICY.md).
 
 
 
