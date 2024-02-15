@@ -81,7 +81,7 @@ Reports which involve higher risk or higher impact may face more severe conseque
 
 The committee will propose a concrete behavior adjustment that ensures the inappropriate behavior is not repeated. The committee will also discuss what actions may need to be taken if the reported person does not agree to the proposed behavioral adjustment.
 
-What follows are examples of possible behavioral adjustments for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral adjustment list is not inclusive, and the Typelevel Code of Conduct Committee reserves the right to take any action it deems necessary.
+What follows are examples of possible behavioral adjustments for incidents that occur in online spaces under the scope of this Code of Conduct. This behavioral adjustment list is not exhaustive, and the Typelevel Code of Conduct Committee reserves the right to take any action it deems necessary.
 
 * Requiring that the reported person not use specific language
 * Requiring that the reported person not join in on specific types of discussions
