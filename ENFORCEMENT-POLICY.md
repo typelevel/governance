@@ -32,6 +32,11 @@ If a moderator of an affiliate project receives a report, they should:
 If the Code of Conduct Committee receives a report regarding an affiliate project, the affiliate moderator/s will be included in the conflict of interest evaluation. If no conflict exists, the affiliate moderator/s will be included in the reporting process as acting Code of Conduct committee members.
 
 
+### Moderator Processes
+
+Typelevel Code of Conduct committee members, affiliate project moderators, and moderators in other spaces covered by the Typelevel Code of Conduct are empowered to enforce the Code of Conduct pro-actively. Code of Conduct violations should still be reported as a follow up, with a note about any action taken in the moment.
+
+
 ## Acknowledge the report
 
 Reporters should receive an acknowledgment of the receipt of their report within 24 hours, via their preferred communication channel.
