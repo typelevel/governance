@@ -72,7 +72,6 @@ If unaffiliated projects adopt the Typelevel Code of Conduct, please contact the
 For questions related to our code of conduct, or to report possible violations, please immediately contact a member of the Typelevel Code of Conduct Committee:
 
 <!-- TODO single CoC email address -->
-  * [Jasna Rodulfa-Blemberg](mailto:jasna.robl@gmail.com)
   * [Sam Pillsworth](mailto:sam@blerf.ca)
   * [Andrew Valencik](mailto:andrew.valencik@gmail.com)
 
