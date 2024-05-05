@@ -203,7 +203,7 @@ When discussing a change to the Typelevel Code of Conduct or enforcement policie
 
 ### Current list of Code of Conduct Committee members
 
-Jasna Rodulfa-Blemberg, Sam Pillsworth, Andrew Valencik
+Sam Pillsworth, Andrew Valencik
 
 
 ### Advisers
