@@ -5,7 +5,6 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME**                        | **GitHub**                                                       | **Office** |
 |---------------------------------|------------------------------------------------------------------|------------|
 | Ross A. Baker                   | [@rossabaker](https://github.com/rossabaker)                     |            |
-| Christopher Davenport           | [@ChristopherDavenport](https://github.com/ChristopherDavenport) | Treasurer  |
 | Luka Jacobowitz                 | [@LukaJCB](https://github.com/LukaJCB)                           |            |
 | Zach McCoy                      | [@zmccoy](https://github.com/zmccoy)                             |            |
 | Michael Pilquist                | [@mpilquist](https://github.com/mpilquist)                       |            |
