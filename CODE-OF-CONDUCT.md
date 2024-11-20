@@ -74,6 +74,9 @@ For questions related to our code of conduct, or to report possible violations, 
 <!-- TODO single CoC email address -->
   * [Sam Pillsworth](mailto:sam@blerf.ca)
   * [Andrew Valencik](mailto:andrew.valencik@gmail.com)
+  * [Kateu Herbert](mailto:hkateu@gmail.com)
+  * [Arman Bilge](mailto:armanbilge@gmail.com)
+  * [Lucas Satabin](mailto:lucas.satabin@gnieh.org)
 
 
 ## Attribution
