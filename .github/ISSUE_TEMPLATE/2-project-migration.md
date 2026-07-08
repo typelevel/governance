@@ -28,3 +28,4 @@ These steps are optional but encouraged.
 
 - [ ] Write a blog post announcing the change
 - [ ] Post to our social channels (Mastodon)
+- [ ] Add Typelevel shield to project README/site/docs as appropriate
