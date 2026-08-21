@@ -35,6 +35,18 @@ The main difference is that organization projects are hosted by Typelevel (at [g
 - use original release coordinates
 - can be withdrawn at any time by the author(s)
 
+## Decision taking
+
+The Typelevel Technical Steering Committee should bias towards action and embody the idea of the advice process: any person can make any decision after seeking advice from those who will be meaningfully affected and people with expertise in the matter. More can be read about the advice process at [reinventingorganizationswiki: decision-making](https://reinventingorganizationswiki.com/en/theory/decision-making/).
+
+In short:
+- Someone notices a problem or opportunity and takes the initiative, or alerts someone better placed to do so.
+- Prior to a proposal, the decision-maker may seek input to sound out perspectives before proposing action.
+- The initiator makes a proposal and seeks advice from those affected or those with expertise.
+- Taking this advice into account, the decision-maker decides on an action and informs those who have given advice.
+
+The Technical Steering Committee can view the board as a safety net in its decision making: the TSC is empowered to take action on their own and the board provides oversight.
+
 ## Other Resources
 
 * We are pleased to offer Typelevel contributors access to a license for [Tuple, pair programming software](https://tuple.app/). 
